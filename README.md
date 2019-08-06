@@ -5,7 +5,6 @@ e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 <div align="center">
  <img src="https://github.com/Yukihiro00/Morimoto-Yukihiro/blob/master/icon.png" alt="サンプル" title="アイコン画像"><br>
  大抵こんな服飾品を身に着けて生活しています。
- 
 </div>
 
 ### 自己紹介
