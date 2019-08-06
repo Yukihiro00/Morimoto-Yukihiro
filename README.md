@@ -1,7 +1,9 @@
 ## 森本　優洸聖(もりもと　ゆきひろ)
 e-mail: sza02290@edu.osakafu-u.ac.jp<br>
-このページは森本優洸聖の個人ホームページです。<br>
-
+このページは森本優洸聖の個人ホームページです。<br><br>
+<div align="center">
+<img src="https://github.com/Yukihiro00/Morimoto-Yukihiro/blob/picture/icon.png" alt="サンプル" title="アイコン画像">
+</div>
 
 ### 自己紹介
 *****
