@@ -3,7 +3,7 @@ e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 このページは森本優洸聖の個人ホームページです。<br><br>
 
 <div align="center">
- <img src="https://github.com/Yukihiro00/Morimoto-Yukihiro/blob/master/icon.png" alt="サンプル" title="アイコン画像"><br>
+ <img src="https://github.com/Yukihiro00/Morimoto-Yukihiro/master/icon.png" alt="サンプル" title="アイコン画像"><br>
  大抵こんな服飾品を身に着けて生活しています。
 </div>
 
@@ -11,7 +11,7 @@ e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 *****
 森本優洸聖は大阪府立大学　人間社会システム研究科　現代システム学専攻<br>
 環境システム学分野　認知行動論コース　博士前期課程1年に所属しています。<br>
-専攻は実験心理学及び認知心理学で，主な研究テーマは主観的意識の有無と行動の関係です。<br>
+専攻は実験心理学及び認知心理学で，主な研究テーマは主観的意識の有無と行動の関係です。<br><br>
 2019年3月　大阪府立大学　現代システム科学域　環境システム学類人間環境科学課程　卒業<br>
 指導教員は学域・博士前期課程ともに牧岡省吾先生です。<br><br>
 現在，日本認知心理学会，日本認知科学会の2つの学会の学生会員です。<br>
