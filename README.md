@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 森本　優洸聖(もりもと　ゆきひろ)
+e-mail: sza02290@edu.osakafu-u.ac.jp<br>
+このページは森本優洸聖の個人ホームページです。
 
-You can use the [editor on GitHub](https://github.com/Yukihiro00/individual/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 自己紹介
+森本優洸聖は大阪府立大学　人間社会システム研究科　現代システム学専攻<br>
+環境システム学分野　認知行動論コース　博士前期課程1年に所属しています。<br>
+専攻は実験心理学及び認知心理学で，主な研究テーマは主観的意識の有無と行動の関係です。<br>
+2019年3月　大阪府立大学　現代システム科学域　環境システム学類人間環境科学課程　卒業<br>
+指導教員は学域・博士前期課程ともに牧岡省吾先生です。<br><br>
+現在，日本認知心理学会，日本認知科学会の2つの学会の学生会員です。<br>
+具体的な研究内容はプライミングのパラダイムを用いてプライマーの見えの程度がターゲットに対する反応にどのような影響を及ぼすかについて，視覚刺激を使って，反応時間やPASを測定することで検証しています。<br><br>
+実験環境は主にLinuxOSのUbuntu上で，MATLAB psychtoolbox3を利用して実験を構成しています。<br>
+分析は主にRを用いて分散分析，線形混合モデル分析及び一般線形混合モデル分析を使っています。<br><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yukihiro00/individual/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+実験方法や理論についてはもちろんですが，分析方法や新しい実験環境の構築，研究データや解釈の共有方法等に興味があります。何かの際にお世話になるときはよろしくお願いします。<br>
+何か，ご連絡をいただける際はsza02290@edu.osakafu-u.ac.jpにメールをいただければと思います。
