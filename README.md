@@ -1,3 +1,4 @@
+<title>My GitHub Website</title>
 ## 森本　優洸聖(もりもと　ゆきひろ)
 e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 このページは森本優洸聖の個人ホームページです。<br>
