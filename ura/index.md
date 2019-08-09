@@ -2,11 +2,6 @@
 
 最終更新日　2019年8月10日<br><br>
 
-<!-- 
-<div align="center">
- <img src="icon.jpg" alt="サンプル" title="アイコン画像"><br>
-</div>
--->
 ### 自己紹介
 
 *****
