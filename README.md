@@ -1,5 +1,5 @@
 ## 森本　優洸聖(もりもと　ゆきひろ)
-e-mail: sza02290@edu.osakafu-u.ac.jp
+e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 このページは森本優洸聖の個人ホームページです。<br>
 最終更新日　2019年8月12日<br><br>
 <div align="center">
