@@ -1,7 +1,9 @@
 ## 森本　優洸聖(もりもと　ゆきひろ)
 e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 このページは森本優洸聖の個人ホームページです。<br>
-最終更新日　2019年9月9日<br><br>
+最終更新日　2019年9月9日<br>
+[English version here](https://yukihiro00.github.io/Morimoto-Yukihiro/English/)
+<br>
 <div align="center">
  <img src="icon.jpg" alt="サンプル" title="アイコン画像"><br>
  大抵こんな服飾品を身に着けて生活しています。
