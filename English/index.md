@@ -4,7 +4,7 @@ This page is Yukihiro's personal Home Page.<br>
 Newest update　12th October 2019<br><br>
 <div align="center">
  <img src="icon.jpg" alt="サンプル" title="アイコン画像"><br>
- 大抵こんな服飾品を身に着けて生活していますI usual live in fashion styles。
+ I usual live in fashion styles。
 </div>
 
 ### Self-introduction
