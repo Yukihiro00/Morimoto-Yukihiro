@@ -1,7 +1,7 @@
 ## MORIMOTO Yukihiro
 e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 This page is Yukihiro's personal Home Page.<br>
-Newest update　12th October 2019<br><br>
+Newest update:12th October 2019<br><br>
 <div align="center">
  <img src="icon.jpg" alt="サンプル" title="アイコン画像"><br>
  I usual live in fashion styles。
