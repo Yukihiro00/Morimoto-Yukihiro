@@ -40,13 +40,13 @@ Participate as a audience<br>
 
 5th to 7th September 2019, Japan Cognitive Science Society's 36th Conference at Shizuoka University Hamamatsu Campus <br>
 * 5th poster presentation Presentation title “The effect of subjective visibility on response priming”<br><br>
-### brief personal record
+### Brief personal record
 *****
 April 2015:admission 　College of Sustainable System Science,Osaka Prefectural University<br>
 May   2019:graduate　College of Sustainable System Science,Osaka Prefectural University<br>
 April 2019:admission　Graduate School of Humanities and Sustainable System sciences,Osaka Prefecture University<br>
 
-### essay (update:12th October 2019)
+### Essay (update:12th October 2019)
 *****
 I've only lived with the Japanese language, but I made a self-introduction site in English to connect to the world.<br>
 My ugly English is difficult to read, but thank you for visiting the website.If you have the improvement of the homepage,and any questions about research content, or comments, please email me.
