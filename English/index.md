@@ -33,13 +33,13 @@ Participate as a audience<br>
 1st-2nd September 2018,Japanese Society for Cognitive Psychology's the 17th Annual Meeting at Ritsumeikan University Ibaraki Campus<br>
 Participate as a audience<br>
 
-25th and 26th May 2019,Japanese Society for Cognitive Psychology's　the 17th Annual Meeting　at Kyoto Telsa <br>
+25th - 26th May 2019,Japanese Society for Cognitive Psychology's　the 17th Annual Meeting　at Kyoto Telsa <br>
 * 25th poster presentation. Presentation title "Relationship between conscious perception experience and perception response"
 
-29th July to 1st August 2019, Asia Pacific Conference on Vision; APCV2019 at Ritsumeikan University Ibaraki Campus <br>
+29th July - 1st August 2019, Asia Pacific Conference on Vision; APCV2019 at Ritsumeikan University Ibaraki Campus <br>
 Participate as a audience<br>
 
-5th to 7th September 2019, Japan Cognitive Science Society's 36th Conference at Shizuoka University Hamamatsu Campus <br>
+5th - 7th September 2019, Japan Cognitive Science Society's 36th Conference at Shizuoka University Hamamatsu Campus <br>
 * 5th poster presentation Presentation title “The effect of subjective visibility on response priming”<br><br>
 ### Brief personal record
 *****
