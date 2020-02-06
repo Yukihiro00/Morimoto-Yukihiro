@@ -40,7 +40,12 @@ Participate as a audience<br>
 Participate as a audience<br>
 
 5th - 7th September 2019, Japan Cognitive Science Society's 36th Conference at Shizuoka University Hamamatsu Campus <br>
-* 5th poster presentation Presentation title “The effect of subjective visibility on response priming”<br><br>
+* 5th poster presentation. Presentation title “The effect of subjective visibility on response priming”<br><br>
+
+
+
+15th -19th May 2020,　Vision Science Society 2020; VSS2020　at the TradeWinds Island Resorts in St. Pete Beach, Florida.<br>
+* plan to 19th　poster presentation.　Presentation title "Effect of subjective visibility on response priming"<br>
 ### Brief personal record
 *****
 April 2015:admission 　College of Sustainable System Science,Osaka Prefectural University<br>
