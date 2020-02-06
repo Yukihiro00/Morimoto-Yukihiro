@@ -34,18 +34,19 @@ Participate as a audience<br>
 Participate as a audience<br>
 
 25th - 26th May 2019,Japanese Society for Cognitive Psychology's　the 17th Annual Meeting　at Kyoto Telsa <br>
-* 25th poster presentation. Presentation title "Relationship between conscious perception experience and perception response"
+*25th poster presentation. Presentation title "Relationship between conscious perception experience and perception response"
 
 29th July - 1st August 2019, Asia Pacific Conference on Vision; APCV2019 at Ritsumeikan University Ibaraki Campus <br>
 Participate as a audience<br>
 
 5th - 7th September 2019, Japan Cognitive Science Society's 36th Conference at Shizuoka University Hamamatsu Campus <br>
-* 5th poster presentation. Presentation title “The effect of subjective visibility on response priming”<br><br>
+*5th poster presentation. Presentation title “The effect of subjective visibility on response priming”<br>
 
-
+10th - 12th January, 2020　The Vision Society of Japan 2020 Winter Conference at Tokyo Institute of Technology Suzukakedai Campus<br>
+*10th　poster presentation.　Presentation title "Does Prime Visibility Affect Response Priming? -Study using PAS"<br>
 
 15th -19th May 2020,　Vision Science Society 2020; VSS2020　at the TradeWinds Island Resorts in St. Pete Beach, Florida.<br>
-* plan to 19th　poster presentation.　Presentation title "Effect of subjective visibility on response priming"<br>
+*plan to 19th　poster presentation.　Presentation title "Effect of subjective visibility on response priming"<br>
 ### Brief personal record
 *****
 April 2015:admission 　College of Sustainable System Science,Osaka Prefectural University<br>
