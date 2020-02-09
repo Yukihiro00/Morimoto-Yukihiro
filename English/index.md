@@ -14,7 +14,7 @@ MORIMOTO Yukihiro is Mastar's student of Osaka Prefecture University, belong to 
 My majars are Experimental Psychology & cognitive Psychology. My research theme is association between subjective consciousness (or Awareness) and behavior.<br>
 I am mainly interested in various information processing in the human mind,and in particular,I want to explore the process and function of consciousness. <br>
 My Supervisor is Dr MAKIOKA Shogo.<br><br>
-I am currently a student member of Japanese Society for Cognitive Psychology and the Japanese Cognitive Science Society.<br>
+I am currently a graduate student member of Japanese Society for Cognitive Psychology, the Japanese Cognitive Science Society,The Vision Society of Japan and Vision Science Society .<br>
 The specific content of the current study is to present visual stimuli, measure response time and PAS (Perceptual Awareness Scale), and verify how primer visibility affects the response to the target. <br><br>
 
 The experiment environment is mainly on Linux OS Ubuntu, and the experiment is configured using MATLAB and Psychtoolbox-3.Currently, I measure the reaction time using a keyboard and joystick, but in the future, I plan to use various devices (For example Motion capture system) and brain waves for measurement.<br>
