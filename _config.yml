@@ -1,2 +1,4 @@
 title: 森本優洸聖のホームページ
 google_analytics: UA-145328496-1
+plugins:
+ - jekyll-sitemap
