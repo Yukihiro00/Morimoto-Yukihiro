@@ -1,7 +1,7 @@
 ## MORIMOTO Yukihiro
 e-mail: sza02290@edu.osakafu-u.ac.jp<br>
 This page is Yukihiro's personal Home Page.<br>
-Newest update:7th February 2020<br>
+Newest update:5th June 2020<br>
 [日本語版ホームページはこちら](https://yukihiro00.github.io/Morimoto-Yukihiro/)<br><br>
 <div align="center">
  <img src="icon.jpg" alt="サンプル" title="アイコン画像"><br>
@@ -45,8 +45,8 @@ Participate as a audience<br>
 10th - 12th January, 2020　The Vision Society of Japan 2020 Winter Conference at Tokyo Institute of Technology Suzukakedai Campus<br>
 *10th　poster presentation.　Presentation title "Does Prime Visibility Affect Response Priming? -Study using PAS"<br>
 
-15th -19th May 2020,　Vision Science Society 2020; VSS2020　at the TradeWinds Island Resorts in St. Pete Beach, Florida.<br>
-*plan to 19th　poster presentation.　Presentation title "Effect of subjective visibility on response priming"<br>
+19th -24th June 2020,　Virtual-Vision Science Society 2020; V-VSS2020　Online Conference.<br>
+Poster presentation. Abstract ID: 202, Presentation title "Effect of subjective visibility on response priming"<br>
 ### Brief personal record
 *****
 April 2015:admission 　College of Sustainable System Science,Osaka Prefectural University<br>
